@@ -28,7 +28,7 @@ https://staticassets.coveo.com/ai-labs/shopper_intent_prediction.zip
 Após extração, utilizar o arquivo:
 
 ```text
-release_10_23_2020.csv
+data/release_10_23_2020.csv
 ```
 
 ---
@@ -77,7 +77,7 @@ Essa fase foi essencial para identificar:
 Arquivo usado na amostragem:
 
 ```text
-eda 100K Amostra.py
+notebooks/eda 100K Amostra.py
 ```
 
 
@@ -95,7 +95,7 @@ Após validação do pipeline inicial, o modelo foi executado com a base complet
 Arquivo usado na amostragem:
 
 ```text
-eda.py
+notebooks/eda.py
 ```
 
 
